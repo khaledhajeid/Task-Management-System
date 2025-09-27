@@ -49,7 +49,7 @@ Compile the project (Linux/macOS):
 g++ Task\ Managment\ System\ Project.cpp -o task
 
 Or on Windows:
-g++ Task\ Managment\ System\ Project.cpp -o task.exe
+g++ Task\ Managment\ System\ Project.cpp -o task.exe (Recommended)
 
 Run the executable:
 ./task   # Linux/macOS
