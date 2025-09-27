@@ -55,11 +55,16 @@ Run the executable:
 ./task   # Linux/macOS
 task.exe # Windows
 ```
+
+---
+
 ## Technologies
 
 - Language: C++
 - Platform: Cross-platform (Windows/Linux)
 - Interface: Console-based, color-coded output
+
+---
 
 ## License
 
