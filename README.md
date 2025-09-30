@@ -43,7 +43,7 @@ This project was created as my **first major university project**, demonstrating
 ## Installation & Usage
 
 1. **Clone the repository:**
-```
+```c
 git clone https://github.com/your-username/Task-Management-System.git
 Compile the project (Linux/macOS):
 g++ Task\ Managment\ System\ Project.cpp -o task
