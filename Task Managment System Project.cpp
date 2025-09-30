@@ -445,7 +445,7 @@ void loginPage() {
 	const string pass1 = "1234";
 	const string user2 = "zaid";
 	const string pass2 = "12345";
-	const string user3 = "khaled";
+	const string user3 = "ahmad";
 	const string pass3 = "123456";
 	bool flag = true;
 	string username, password;
@@ -546,4 +546,5 @@ int main() {
 	start();
 
 	return 0;
+
 }
