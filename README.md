@@ -54,6 +54,17 @@ g++ Task\ Managment\ System\ Project.cpp -o task.exe (Recommended)
 Run the executable:
 ./task   # Linux/macOS
 task.exe # Windows
+
+After runing the program, the program will display login in page:
+For Admin employee:
+  username: khaled
+  pass: 1234
+For Operator employee:
+  username: zaid
+  pass: 12345
+For normal employee:
+  username: ahmad
+  pass: 123456
 ```
 
 ---
