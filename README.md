@@ -16,7 +16,7 @@ A **console-based C++ Task Management System** that allows administrators, opera
 ---
 
 ## Overview
-This project was created as my **first major university project**, demonstrating my ability to build a **larger-scale C++ program**. The system is fully **console-based** and uses color-coded output for an improved user experience.
+This project was created as my **first major university project**, demonstrating my ability to build a **larger-scale C++ program**. The system is fully **console-based** and uses color-coded output for an improved user experience. (The code is designed to run on Windows)
 
 ---
 
@@ -56,13 +56,13 @@ Run the executable:
 task.exe # Windows
 
 After runing the program, the program will display login in page:
-For Admin employee:
+For Admin:
   username: khaled
   pass: 1234
-For Operator employee:
+For Operator:
   username: zaid
   pass: 12345
-For normal employee:
+For employee:
   username: ahmad
   pass: 123456
 ```
